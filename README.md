@@ -1,1 +1,108 @@
-# web
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Conciencia Ecológica y Alimentación Saludable</title>
+<link rel="stylesheet" href="styles.css">
+<script src="script.js" defer></script>
+</head>
+<body>
+<header>
+<img src="logo.png" alt="Logotipo creado por ustedes" width="200" height="200"> 
+<h1>Conciencia Ecológica y Alimentación Saludable en la Escuela</h1>
+<nav>
+<ul>
+<li><a href="#inicio">Inicio</a></li>
+<li><a href="#estadisticas">Estadísticas</a></li>
+<li><a href="#educacion">Educación</a></li>
+<li><a href="#consejos">Consejos</a></li>
+<li><a href="#recetas">Recetas</a></li>
+</ul>
+</nav>
+</header>
+<section id="inicio">
+
+<h2>Introducción</h2>
+<p>Bienvenido a nuestra página sobre conciencia ecológica y alimentación saludable. Aprende cómo puedes reducir la generación de basura en nuestra escuela y adoptar hábitos alimenticios más saludables.</p>
+<p> Una buena alimentacio es fundamental para tene una vida saludable. Consumir una variedad de alimentus frescos y nutritivos ayuda a fortalecer el sistema inmunologico y prevenir enfermedades</p>
+</section>
+<section id="estadisticas">
+<h2>Estadísticas</h2>
+<p>Conoce la cantidad de basura generada en nuestra escuela y el impacto que tiene en el medio ambiente. Incluir información investigada</p>
+<img src="CAP1.png" alt="grafica">
+<img src="CAP2.png" alt="grafica">
+<img src="CAP3.png" alt="grafica">
+<p>Concluimos que la mayor parte de los estudiantes del Colegio de Bachilleres no reutilizan o tratan de disminuir su consumo de plásticos, generando así una gran huella de carbono.</p>
+<canvas id="graficoBasura"></canvas>
+</section>
+
+<section id="educacion">
+<h2>Educación sobre Alimentación Saludable</h2>
+<p>Descubre los beneficios de una alimentación saludable y cómo puede mejorar tu vida y el medio ambiente. Agregar un link a un juego o pagina que permita hacer conciencia sobre alimentación </p>
+
+</section>
+<section id="consejos">
+    <table border="2" bordercolor="green">
+    </thead>
+    <tr>
+        <th>Consejos para reducir la basura</th>
+        <th>Importancia</th>
+    </tr>
+    <tbody>
+        <tr>
+            <td>Reducir consumo de chatarra</td>
+            <td>La comida rapida contiene colesterol, grasa, azucares y sales en gran cantidad, generando problemas de salud</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>Consumir de forma responsable</td>
+            <td>La compra de productos locales minimiza las emiciones derivadas del transporte y fortalece la infaestructura local, iniciando un consumo responsable</td>
+        </tr>
+    <tr>
+        <td>Comprar en agranel</td>
+        <td>Consumir solo la cantidad que vas a comer, reduce el gasto y evita desperdicios</td>
+    </tr>
+    <tr>
+        <td>Usar botellas reutilizables</td>
+        <td>Reduce el consumo de plastico desechable al igual que ahorrar dinero y fomenta la hidratacion del cuerpo</td>
+    </tr>
+    <tfoot>
+    </table>
+    </tfoot>
+    <ul>
+        <li>Llevar almuerzos en embases reutilizables</li>
+        <li>Comprar alimentos a granel y evitar empaques innecesarios</li>
+        <li>Elige alimentos frescos y naturales</li>
+    </ul>
+    </section>
+    <section id="recetas">
+    <h2>Recetas Saludables, bebida, comida, ensalada,postres</h2>
+    <article>
+    <h3>Ensalada de Frutas Frescas</h3>
+    <p>Ingredientes:</p>
+    <ul>
+    <li>Manzana</li>
+    <li>Plátano</li>
+    <li>Fresas</li>
+    <li>Uvas</li>
+    <li>Yogur natural</li>
+    </ul>
+    <p>Preparación: Corta todas las frutas en trozos pequeños, mézclalas en un tazón grande y añade yogur natural al gusto. ¡Disfruta de una merienda saludable y deliciosa!</p>
+    </article>
+    <h2>Juegos e informacion</h2>
+        <ul>
+            <li><a href="https://climatekids.nasa.gov/" target="_blank">Climate Kids - Basura y Reciclaje</a></li>
+            <li><a href="https://www.who.int/es/campaigns/connecting-the-world-to-combat-coronavirus/healthyathome/healthyathome---healthy-diet" target="_blank">OMS - Alimentación Saludable</a></li>
+            <li><a href="https://images.nationalgeographic.com/wpf/media-content/richmedia/1/1143/project/dist/desktop.html" target="_blank">Recycle Roundup</a></li>
+        </ul>
+    <!-- Agrega más recetas aquí -->
+    </section>
+    <!—Agrega otra sección para enlace a tu correo -->
+    <footer>
+    <p>&copy; 2024 Conciencia Ecológica. Todos los derechos reservados.</p>
+    <p>Integrantes:</p>
+    </footer>
+    </body>
+    </html>
