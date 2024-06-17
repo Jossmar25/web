@@ -44,7 +44,6 @@
 </section>
 <section id="consejos">
     <table border="2" bordercolor="green">
-    </thead>
     <tr>
         <th>Consejos para reducir la basura</th>
         <th>Importancia</th>
