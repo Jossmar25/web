@@ -39,11 +39,10 @@
 
 <section id="educacion">
 <h2>Educación sobre Alimentación Saludable</h2>
-<p>Descubre los beneficios de una alimentación saludable y cómo puede mejorar tu vida y el medio ambiente. Agregar un link a un juego o pagina que permita hacer conciencia sobre alimentación </p>
-
+<p>Descubre los beneficios de una alimentación saludable y cómo puede mejorar tu vida y el medio ambiente. Agregar un link a un juego o pagina que permita hacer conciencia sobre alimentación.</p>
 </section>
+<table border="2" bordercolor="green">
 <section id="consejos">
-    <table border="2" bordercolor="green">
     <tr>
         <th>Consejos para reducir la basura</th>
         <th>Importancia</th>
@@ -68,7 +67,7 @@
         <td>Reduce el consumo de plastico desechable al igual que ahorrar dinero y fomenta la hidratacion del cuerpo</td>
     </tr>
     <tfoot>
-    </table>
+</table>
     </tfoot>
     <ul>
         <li>Llevar almuerzos en embases reutilizables</li>
@@ -77,7 +76,7 @@
     </ul>
     </section>
     <section id="recetas">
-    <h2>Recetas Saludables, bebida, comida, ensalada,postres</h2>
+        <h2>Recetas Saludables, bebida, comida, ensalada,postres</h2>
     <article>
     <h3>Ensalada de Frutas Frescas</h3>
     <p>Ingredientes:</p>
