@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Conciencia Ecológica y Alimentación Saludable</title>
+    <title>Conciencia Ecológica y Alimentación Saludable</title>
 <link rel="stylesheet" href="styles.css">
 <script src="script.js" defer></script>
 </head>
@@ -99,7 +99,9 @@
         </ul>
     <!-- Agrega más recetas aquí -->
     </section>
-    <!—Agrega otra sección para enlace a tu correo -->
+       <section id="contacto">
+                <a href="mailto:angelestebananezmares2005@gmail.com"> nuestro correo</a>
+            </section>
     <footer>
     <p>&copy; 2024 Conciencia Ecológica. Todos los derechos reservados.</p>
     <p>Integrantes:</p>
