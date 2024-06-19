@@ -102,7 +102,7 @@
             </section>
     <footer>
     <p>&copy; 2024 Conciencia Ecológica. Todos los derechos reservados.</p>
-    <p>Integrantes:</p>
+    <p>Integrantes:Dominguez Cedillo Samantha Sayuri y Estebanez Mares Jose Angel</p>
     </footer>
     </body>
     </html>
